@@ -11,8 +11,8 @@ Criação de interface inicial do aplicativo do iFood usando React Native.
 </ul>
 <br>
 <div style='display: inline_block' align="center">
-  <img width=200px alt="Menu do aplicativo, com uma moça olhando comidas" src="https://user-images.githubusercontent.com/93339762/156455717-56ffe198-0675-4310-aa49-86dee33b7f39.jpg">
-  <img width=200px alt="" src="https://user-images.githubusercontent.com/93339762/156455722-66ec1b9a-e7a5-4454-8342-1afef6cb2d45.jpg">
+  <img width=200px alt="Menu inicial" src="https://user-images.githubusercontent.com/93339762/156455717-56ffe198-0675-4310-aa49-86dee33b7f39.jpg">
+  <img width=200px alt="Comidas e restaurantes" src="https://user-images.githubusercontent.com/93339762/156455722-66ec1b9a-e7a5-4454-8342-1afef6cb2d45.jpg">
 </div>
 <br>
 <em> Detalhes: Uso de React Native, Hooks do React para controle de estado, React Navigation para roteamento de telas e Integração de API estática usando JSON para listar os restaurantes.</em>
